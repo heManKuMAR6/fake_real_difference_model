@@ -1,0 +1,29 @@
+# ⚡ QUICK COMMAND - Run the App
+
+## Copy and Paste This:
+
+```powershell
+cd "C:\Users\Siva Sai Anangi\Desktop\trust"; & ".\venv\Scripts\Activate.ps1"; python -m streamlit run app_multi_model.py
+```
+
+## Then Open This in Browser:
+
+```
+http://localhost:8501
+```
+
+---
+
+## That's It! 🎉
+
+The app will open in your browser with 4 models ready to test.
+
+### Test a Sentence:
+
+```
+Apple Inc. announced today that it will invest $100 million in renewable 
+energy infrastructure across its global manufacturing facilities.
+```
+
+### To Stop:
+Press `Ctrl + C` in PowerShell, then type `Y` and press Enter.
